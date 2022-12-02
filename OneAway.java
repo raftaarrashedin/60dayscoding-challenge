@@ -1,3 +1,7 @@
+//Q - There are three types of edits that can be performed on strings : insert a character, remove a character, or replace a character. Given two Strings,
+// Write a function to check if they are one edit or zero edit away
+// example : blink - link : True
+// blink - black : false
 class OneAwaySol{
 	boolean oneEditAway(String first, String second){
 		// length checks
